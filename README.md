@@ -61,9 +61,6 @@ npm test
 -   `specs/simple-calculator/plan.md`: Development plan and architectural decisions.
 -   `specs/simple-calculator/tasks.md`: Breakdown of development tasks.
 
-## License
-This project is licensed under the ISC License.
-
 
 ![alt text](image.png)
 ![alt text](image-1.png)
